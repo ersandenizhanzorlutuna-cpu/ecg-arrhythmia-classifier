@@ -51,4 +51,4 @@ Open `notebooks/ecg_classifier.ipynb` and run all cells.
 
 ## Author
 
-Denizhan — Biomedical Engineering (BSc) | Software Engineering (MSc) | Berlin
+Ersan Denizhan Zorlutuna — Biomedical Engineering (BSc) | Software Engineering (MSc) | Berlin
